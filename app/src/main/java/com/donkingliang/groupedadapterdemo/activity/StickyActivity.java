@@ -20,7 +20,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 /**
- * 没有组头的分组列表。
+ * 头部吸顶的列表。
  */
 public class StickyActivity extends AppCompatActivity {
 
